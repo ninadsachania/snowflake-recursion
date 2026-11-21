@@ -14,7 +14,7 @@ Version: beta 0.2.024, built on 31 December 2025.
 To build:
 
 ```
-$ jai -import_dir ./libs main.jai
+$ jai main.jai
 ```
 
 To run:
